@@ -1,4 +1,4 @@
-# XC Reverse Shell
+# Python Reverse Shell
 
 This is a Python reverse shell project with file transfer capabilities.
 
